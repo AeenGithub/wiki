@@ -248,10 +248,10 @@
             "static": false
         },
         {
-            "w": 1,
+            "w": 2,
             "h": 1,
-            "x": 3,
-            "y": 13,
+            "x": 0,
+            "y": 11,
             "i": "$:/plugins/kookma/refnotes/ui/bibtexlibrary",
             "moved": false,
             "static": false
@@ -277,7 +277,7 @@
         {
             "w": 1,
             "h": 1,
-            "x": 2,
+            "x": 3,
             "y": 13,
             "i": "$:/plugins/linonetwo/source-control-management/SideBarSCMTab",
             "moved": false,
