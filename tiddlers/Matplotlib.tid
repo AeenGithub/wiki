@@ -1,0 +1,23 @@
+created: 20220709160732606
+creator: 卓千叶
+modified: 20220709161154282
+modifier: 卓千叶
+tags: 千叶 Index
+title: Matplotlib
+type: text/vnd.tiddlywiki
+
+Matplotlib 是一个 Python 的 2D绘图库，它以各种硬拷贝格式和跨平台的交互式环境生成出版质量级别的图形。
+
+```
+# 1、安装包
+$ pip install matplotlib
+
+# 2、进入python的交互式界面
+$ python -i
+
+# 3、使用 matplotlib 的 scatter 方法绘制散点图
+>>> import matplotlib.pyplot as plt
+>>> x = [1, 2, 3, 4, 5]
+>>> y = [2.3, 3.4, 1.2, 6.6, 7.0]
+>>> plt.scatter(x, y, color='r', marker='+')
+```
