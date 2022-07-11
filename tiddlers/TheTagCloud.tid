@@ -1,0 +1,11 @@
+caption: TheTagCloud
+created: 20220711144036404
+creator: 卓千叶
+modified: 20220711144530433
+modifier: 卓千叶
+tags: $:/tags/SideBar
+title: TheTagCloud
+type: text/vnd.tiddlywiki
+wysiwyg: yes
+
+<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/TagCloud.js" aliasField="caption" levels="2" graphTitle="The TagCloud View" $fillSidebar="no" $height="100%"/>
