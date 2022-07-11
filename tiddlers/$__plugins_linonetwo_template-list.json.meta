@@ -8,3 +8,4 @@ plugin-type: plugin
 title: $:/plugins/linonetwo/template-list
 type: application/json
 version: 0.1.2
+wysiwyg: yes
