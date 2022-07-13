@@ -98,6 +98,15 @@
             "i": "TheBrain",
             "moved": false,
             "static": false
+        },
+        {
+            "w": 1,
+            "h": 1,
+            "x": 0,
+            "y": 17,
+            "i": "TheTagCloud",
+            "moved": false,
+            "static": false
         }
     ],
     "sm": [
@@ -199,6 +208,15 @@
             "i": "TheBrain",
             "moved": false,
             "static": false
+        },
+        {
+            "w": 1,
+            "h": 1,
+            "x": 0,
+            "y": 9,
+            "i": "TheTagCloud",
+            "moved": false,
+            "static": false
         }
     ],
     "xs": [
@@ -276,7 +294,7 @@
         },
         {
             "w": 2,
-            "h": 1,
+            "h": 2,
             "x": 2,
             "y": 15,
             "i": "$:/plugins/linonetwo/source-control-management/SideBarSCMTab",
